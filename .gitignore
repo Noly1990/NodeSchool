@@ -46,6 +46,7 @@ sh/
 sdk.config.json
 danger.config.js
 .DS_Store
+node_modules
 node_modules/
 /dist/
 npm-debug.log*
