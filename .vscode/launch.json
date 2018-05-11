@@ -7,8 +7,9 @@
         {
             "type": "node",
             "request": "launch",
+            
             "name": "启动程序",
-            "program": "${workspaceFolder}/learnyounode/app2.js"
+            "program": "${workspaceFolder}/NodeLab\\index.js"
         }
     ]
 }
